@@ -2,6 +2,7 @@
 using namespace std;
 class Solution {
 public:
+    
     int sumOfUnique(vector<int>& nums) 
     {
         unordered_map<int, int>temp;
